@@ -1,4 +1,4 @@
-"# TSTAutomationInterview"
+# TSTAutomationInterview
 
 The web application that needs to be tested is available under the following link:
 https://cgibife.herokuapp.com/
