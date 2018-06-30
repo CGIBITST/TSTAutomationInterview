@@ -1,9 +1,10 @@
 # TSTAutomationInterview
 
+## Test Story
 The web application that needs to be tested is available under the following link:
 https://cgibife.herokuapp.com/
 
-Features of the application:
+### Features of the application:
 The below is the available functionality of the application,
 
 •	Displays the user specific tweet with tagged and non-tagged users
@@ -15,7 +16,7 @@ The below is the available functionality of the application,
 •	Tweeter users profile pic should be shown as part of the tweet
 •	Is responsive in tab & desktop screen
 
-What needs to be done:
+### What needs to be done:
 •	Prepare test cases for this application using any tool of your choice.
 •	Please use any language or framework of your preference to automate a selection of the identified use cases.
 •	Choose the preferred tool which rightly matches the build-in application
