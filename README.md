@@ -2,6 +2,7 @@
 
 ## Test Story
 The web application that needs to be tested is available under the following link:
+
 https://cgibife.herokuapp.com/
 
 ### Features of the application:
@@ -25,6 +26,3 @@ The below is the available functionality of the application,
 * Approach to implement automation scripts in CI/CD pipeline. Prefer the correct CI/CD plugin of your choice
 * Please add clear documentation with respect to your test approach, framework choice, tests covered, test results.
 * Explain clearly how to launch the automated tests. Add the documentation to the same repository as the other files. Preferably upload     everything to Bitbucket or Github or any code repository of your choice. 
-
-
-
