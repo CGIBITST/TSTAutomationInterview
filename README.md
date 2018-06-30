@@ -20,9 +20,12 @@ The below is the available functionality of the application,
 ### What needs to be done:
 * Prepare test cases for this application using any tool of your choice.
 * Please use any language or framework of your preference to automate a selection of the identified use cases.
-* Choose the preferred tool which rightly matches the build-in application
-* Consider multi-browser testing.
-* Consider device (mostly iPad & Tablets) browser testing.
-* Approach to implement automation scripts in CI/CD pipeline. Prefer the correct CI/CD plugin of your choice
+* Tool preferred should be a correct match to the build-in application
+* Consider multi-browser testing in desktop version
+* Consider browser testing in devices (application accessible in iPad & Tablets) .
+* Approach to execute automation scripts in CI/CD pipeline. Prefer a correct CI/CD plugin of your choice
+* Automated test results should be in a proper html formats with screenshot attached.
+* Generic functions should be created for the identified scenario.
 * Please add clear documentation with respect to your test approach, framework choice, tests covered, test results.
 * Explain clearly how to launch the automated tests. Add the documentation to the same repository as the other files. Preferably upload     everything to Bitbucket or Github or any code repository of your choice. 
+
